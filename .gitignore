@@ -1,4 +1,6 @@
-
+*.iml
+.idea
+leap-seconds.list
 ###> symfony/framework-bundle ###
 /.env.local
 /.env.local.php
